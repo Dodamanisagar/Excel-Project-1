@@ -1,6 +1,6 @@
 # Excel-Project-1
 ## This is my first interactive excel Dashboard Project
-Hi all. Sharing My first Interactive excel project for Data Analyst/Catastrophic modeling analyst Role. The detail about the project are as follows :-
+''Hi all. Sharing My first Interactive excel project for Data Analyst/Catastrophic modeling analyst Role. The detail about the project are as follows :-
 
 * Vrinda store wants to create an annual sales report for 2022. So that, Vrinda store can understand their customers and grow more sales in 2023.
 
@@ -27,4 +27,4 @@ Hi all. Sharing My first Interactive excel project for Data Analyst/Catastrophic
 Women are more likely to buy compared to men (~65%) Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%) Adult age group (25-49 yrs) is max contributing (~50%) Amazon, Flipkart and Myntra channels are max contributing (~80%)
 
 * Final Conclusion to improve Vrinda store sales:-
-Target women customers of age group (25-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+Target women customers of age group (25-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.''
