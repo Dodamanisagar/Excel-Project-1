@@ -1,6 +1,6 @@
 # Excel-Project-1
 ## This is my first interactive excel Dashboard Project
-''Hi all. Sharing My first Interactive excel project for Data Analyst/Catastrophic modeling analyst Role. The detail about the project are as follows :-
+''Hi all. Sharing My first Interactive excel project for Data Analyst/Catastrophic modeling analyst Role. The detail about the project are as follows:-
 
 * Vrinda store wants to create an annual sales report for 2022. So that, Vrinda store can understand their customers and grow more sales in 2023.
 
