@@ -1,4 +1,4 @@
-# Excel-Project-1
+# Vrinda-Store-Data-Analysis
 ## This is my first interactive excel Project
 ''Hi all. Sharing My first Interactive excel project for Data Analyst/Catastrophic modeling analyst Role. The detail about the project are as follows:-
 
