@@ -1,4 +1,17 @@
 # Vrinda Store Data Analysis
+
+
+
+
+
+
+![Screenshot 2023-10-12 124612](https://github.com/Dodamanisagar/Excel-Project-1-Vrinda-Store-Data-Analysis/assets/99800998/0f8430ae-6d41-4b94-be1d-a487769f27b3)
+
+
+
+
+
+
 ## This is my first interactive excel Project
 ''Hi all. Sharing My first Interactive excel project for Data Analyst/Catastrophic modeling analyst Role. The detail about the project are as follows:-
 
